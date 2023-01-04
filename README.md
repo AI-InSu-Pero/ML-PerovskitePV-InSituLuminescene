@@ -1,13 +1,13 @@
 # Machine Learning for *In Situ* Photoluminescence Data of Perovskite Photovoltaics
 
 
-This repository contains the code for the paper **"Process Insights into Perovskite Thin-Film Photovoltaics from Machine Learning with *In Situ* Luminescence Data"**(*add link*) and the corresponding dataset (*add link*).
+This repository contains the code for the paper **"Process Insights into Perovskite Thin-Film Photovoltaics from Machine Learning with *In Situ* Luminescence Data"**(*add link*) and the corresponding dataset [In Situ Photoluminescence Imaging Dataset of Blade-Coated Perovskite Photovoltaics](https://doi.org/10.5281/zenodo.7503391).
 
 ## Reproducing the results
 
 This repository contains all data and code needed to reproduce the results of the paper **"Process Insights into Perovskite Thin-Film Photovoltaics from Machine Learning with *In Situ* Luminescence Data"**.   
 
-#### Repository Structure
+#### Repository structure
 ```
 ├── README.md                                                           
 ├── requirements.txt                                - txt-file to install the environment
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Extracting the entire dataset 
 
-The dataset is available on Zenodo (*add link*) as a hdf5-file and can be extracted using the notebook *00_extract_data_from_hdf5_file.ipynb*.
+The dataset **In Situ Photoluminescence Imaging Dataset of Blade-Coated Perovskite Photovoltaics** is available on [Zenodo](https://doi.org/10.5281/zenodo.7503391) as a hdf5-file. The imaging data in form of npy-files can be extracted using the notebook *00_extract_data_from_hdf5_file.ipynb*.
 
 
 
