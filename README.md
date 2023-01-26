@@ -1,11 +1,11 @@
-# Machine Learning for *In Situ* Photoluminescence Data of Perovskite Photovoltaics
+# Machine Learning for In Situ Photoluminescence Data of Perovskite Photovoltaics
 
 
-This repository contains the code for the paper **["Process Insights into Perovskite Thin-Film Photovoltaics from Machine Learning with *In Situ* Luminescence Data"](https://doi.org/10.1002/solr.202201114)** and the corresponding dataset [In Situ Photoluminescence Imaging Dataset of Blade-Coated Perovskite Photovoltaics](https://doi.org/10.5281/zenodo.7503391).
+This repository contains the code for the paper **["Process Insights into Perovskite Thin-Film Photovoltaics from Machine Learning with In Situ Luminescence Data"](https://doi.org/10.1002/solr.202201114)** and the corresponding dataset [In Situ Photoluminescence Imaging Dataset of Blade-Coated Perovskite Photovoltaics](https://doi.org/10.5281/zenodo.7503391).
 
 ## Reproducing the results
 
-This repository contains all data and code needed to reproduce the results of the paper **["Process Insights into Perovskite Thin-Film Photovoltaics from Machine Learning with *In Situ* Luminescence Data"](https://doi.org/10.1002/solr.202201114)**.   
+This repository contains all data and code needed to reproduce the results of the paper **["Process Insights into Perovskite Thin-Film Photovoltaics from Machine Learning with In Situ Luminescence Data"](https://doi.org/10.1002/solr.202201114)**.   
 
 #### Structure
 ```
@@ -21,7 +21,7 @@ This repository contains all data and code needed to reproduce the results of th
     └── training_extracted_features_and_labels.h5   - extracted features used for training                    
 
 ```
-The folder "extracted_features" contains the extracted features used in the paper, namely the PL transients and as well as the extracted single *in situ* feature 1 to 3 and the *ex situ* feature. The data is saved in the *.h5py format and both test and training file contain a pandas table, where each row contains a solar cell sample. 
+The folder "extracted_features" contains the extracted features used in the paper, namely the PL transients and as well as the extracted single in situ feature 1 to 3 and the ex situ feature. The data is saved in the *.h5py format and both test and training file contain a pandas table, where each row contains a solar cell sample. 
 
 
 With the following command, the packages used in the 4 notebooks can be installed from the provided requirements.txt file:
