@@ -3,6 +3,14 @@
 
 This repository contains the code for the paper **["Process Insights into Perovskite Thin-Film Photovoltaics from Machine Learning with In Situ Luminescence Data"](https://doi.org/10.1002/solr.202201114)** and the corresponding dataset [In Situ Photoluminescence Imaging Dataset of Blade-Coated Perovskite Photovoltaics](https://doi.org/10.5281/zenodo.7503391).
 
+
+<p align="center">
+    <img src="images/concept.png", height="400">
+    <br>
+    adapted from [original publication](https://doi.org/10.1002/solr.202201114)
+</p>
+
+
 ## Reproducing the results
 
 This repository contains all data and code needed to reproduce the results of the paper **["Process Insights into Perovskite Thin-Film Photovoltaics from Machine Learning with In Situ Luminescence Data"](https://doi.org/10.1002/solr.202201114)**.   
