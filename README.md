@@ -7,7 +7,7 @@ This repository contains the code for the paper **["Process Insights into Perovs
 <p align="center">
     <img src="images/concept.png", height="400">
     <br>
-    adapted from [original publication](https://doi.org/10.1002/solr.202201114)
+    adapted from <a href="[http//www.google.com](https://doi.org/10.1002/solr.202201114)">original publication</a> 
 </p>
 
 
